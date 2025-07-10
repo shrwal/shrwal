@@ -1,6 +1,5 @@
-<img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Shruti Agarwal</h1>
 <h3 align="center">Crafting Digital Solutions, One Line at a Time!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GetAnshulAgarwal&label=Profile%20views&color=0e75b6&style=flat" alt="GetAnshulAgarwal" /> </p>
