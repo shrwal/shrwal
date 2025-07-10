@@ -2,26 +2,25 @@
 <h1 align="center">Hi 👋, I'm Shruti Agarwal</h1>
 <h3 align="center">Crafting Digital Solutions, One Line at a Time!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GetAnshulAgarwal&label=Profile%20views&color=0e75b6&style=flat" alt="GetAnshulAgarwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrwal&label=Profile%20views&color=0e75b6&style=flat" alt="shrwal" /> </p>
 
 <p align="left"> <a href="https://x.com/AgarwalAnshul23" target="blank"><img src="https://img.shields.io/twitter/follow/GetAnshulAgarwal?logo=twitter&style=for-the-badge" alt="GetAnshulAgarwal" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Application Development**
+- 💬 Ask me about **Data Analyst**
 
-- 📫 How to reach me **anshulagarwal132@gmail.com**
+- 📫 How to reach me **bansalsuvi2@gmail.com**
 
-- ⚡ Fun fact  ** Fun fact: I love badminton & UI/UX design!**
+- ⚡ Fun fact  ** Fun fact: I love badminton & listening music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AgarwalAnshul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvx19" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/anshul-agarwal-974542215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvbalchandani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anshul_agarwal_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvx19_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/anshul10032003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvx19" height="30" width="40" /></a>
+<a href="https://x.com/ShrutiA40089131?t=6O0qPuVA_jcB-labTorhaw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvx19" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shruti-agarwal-4060291b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shruti Agarwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shrutiaga_rwal?igsh=MXI1MG96bmd2Y2Z0ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutiAgarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
